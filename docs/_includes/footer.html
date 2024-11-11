@@ -15,16 +15,17 @@
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li><a class="p-name" href="https://bgonzalezbustamante.com/">{{ site.author.name | escape }}</li>
+            <li><a class="p-name" href="https://bgonzalezbustamante.com/"  target="_blank" title="Bastián González-Bustamante">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li> <br />
           {%- endif %}
-            <li><a href="https://github.com/bgonzalezbustamante/TextClass-Benchmark">GitHub repository</a> - Contribute</li>
+            <li></small><a href="https://github.com/bgonzalezbustamante/TextClass-Benchmark" target="_blank" title="GitHub repository">GitHub repository</a></small></li>
         </ul>
       {%- endif %}
       </div>
       <div class="footer-col">
+        <li><small>CC and MIT 2024 licenses.</small></li>
         <p>{{ site.description | escape }}</p>
       </div>
     </div>

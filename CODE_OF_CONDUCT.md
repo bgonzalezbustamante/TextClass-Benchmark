@@ -36,7 +36,7 @@ This Code of Conduct applies within all project spaces, and also applies when an
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported to the project administrators responsible for enforcement at **b.a.gonzalez.bustamante@fgga.leidenuniv.nl**.
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported to the project administrators responsible for enforcement at b.a.gonzalez.bustamante@fgga.leidenuniv.nl.
 
 All complaints will be reviewed and investigated promptly and fairly.
 

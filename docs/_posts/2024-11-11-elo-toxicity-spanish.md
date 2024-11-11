@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "ELO Rating Toxicity in Spanish - Cycle 1"
+title: "Leaderboard Toxicity in Spanish: ELO Rating Cycle 1"
 categories: toxicity
 author:
 - Bastián González-Bustamante
-meta: "Toxicity Classification ELO Rating LLMs"
+meta: "LLMs and BERTs for Toxicity Classification in Spanish"
 ---
 
 ## Leaderboard

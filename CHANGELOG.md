@@ -5,6 +5,10 @@ All notable changes to "TextClass-Benchmark" will be documented in this file.
 
 ## [Released]
 
+## [1.0.1] - 2024-11-12
+### Changed
+- Minor corrections
+
 ## [1.0.0] - 2024-11-11
 ### Added
 - DNS domain redirections.

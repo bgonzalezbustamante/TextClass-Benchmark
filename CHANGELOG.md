@@ -5,14 +5,17 @@ All notable changes to "TextClass-Benchmark" will be documented in this file.
 
 ## [Released]
 
-## [1.0.2] - 2024-11-22
-
+## [1.1.2] - 2024-11-23
+### Added
+- Python code TextDetox splits.
 ### Changed
+- Minor corrections
 
+## [1.0.2] - 2024-11-22
+### Changed
 - Minor corrections
 
 ## [1.0.1] - 2024-11-12
-
 ### Changed
 - Minor corrections
 

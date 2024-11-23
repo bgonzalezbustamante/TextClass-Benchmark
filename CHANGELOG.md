@@ -8,8 +8,7 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 ## [1.1.2] - 2024-11-23
 ### Added
 - Python code TextDetox splits.
-- Python code ground-truth evals.
-
+- Python baseline code ground-truth evals.
 ### Changed
 - Minor corrections
 
@@ -28,7 +27,7 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 - Repository status badge.
 - License CC BY 4.0 on GitHub repository.
 - Code of conduct in MD format.
-- Python code ELO ratings.
+- Python baseline code ELO ratings.
 ### Changed
 - GitHub page.
 - Minor corrections

@@ -5,6 +5,12 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.2.2] - 2024-11-24
+### Added
+- Python code Fake News splits.
+### Changed
+- Minor corrections
+
 ## [1.1.2] - 2024-11-23
 ### Added
 - Python code TextDetox splits.

@@ -7,6 +7,7 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [1.2.2] - 2024-11-24
 ### Added
+- Python code CAP data splits.
 - Python code Fake News splits.
 ### Changed
 - Minor corrections

@@ -9,6 +9,7 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 ### Added
 - Python code CAP data splits.
 - Python code Fake News splits.
+- Mapping models names.
 ### Changed
 - Minor corrections
 

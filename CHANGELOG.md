@@ -5,6 +5,12 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.3.2] - 2024-11-25
+### Added
+- Keep the Last Known ELO-Score control.
+### Changed
+- Minor corrections
+
 ## [1.2.2] - 2024-11-24
 ### Added
 - Python code CAP data splits.

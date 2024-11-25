@@ -27,4 +27,4 @@ Please bear in mind that ELO is a relative measure that highlights comparative s
 
 ## Meta-ELO Leaderboard
 
-*Forthcoming*
+*Forthcoming*.

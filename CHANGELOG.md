@@ -3,11 +3,11 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Unreleased]
 
-## [1.4.2] - TBC
+## [Released]
+
+## [1.4.2] - 2024-11-26
 ### Added
 - Meta-ELO
-
-## [Released]
 
 ## [1.3.2] - 2024-11-25
 ### Added

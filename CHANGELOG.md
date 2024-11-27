@@ -5,6 +5,10 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.4.3] - 2024-11-27
+### Changed
+- Minor corrections
+
 ## [1.4.2] - 2024-11-26
 ### Added
 - Meta-ELO

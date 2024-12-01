@@ -5,15 +5,21 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.5.4] - 2024-12-01
+### Changed
+- Meta-ELO.
+- Meta-ELO plot.
+- Minor corrections.
+
 ## [1.5.3] - 2024-11-28
 ### Changed
-- Minor corrections
+- Minor corrections.
 
 ## [1.5.2] - 2024-11-27
 ### Added
 - Meta-ELO plot.
 ### Changed
-- Minor corrections
+- Minor corrections.
 
 ## [1.4.2] - 2024-11-26
 ### Added
@@ -23,7 +29,7 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 ### Added
 - Keep the Last Known ELO-Score control.
 ### Changed
-- Minor corrections
+- Minor corrections.
 
 ## [1.2.2] - 2024-11-24
 ### Added
@@ -31,34 +37,34 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 - Python code Fake News splits.
 - Mapping models names.
 ### Changed
-- Minor corrections
+- Minor corrections.
 
 ## [1.1.2] - 2024-11-23
 ### Added
 - Python code TextDetox splits.
 - Python baseline code ground-truth evals.
 ### Changed
-- Minor corrections
+- Minor corrections.
 
 ## [1.0.2] - 2024-11-22
 ### Changed
-- Minor corrections
+- Minor corrections.
 
 ## [1.0.1] - 2024-11-12
 ### Changed
-- Minor corrections
+- Minor corrections.
 
 ## [1.0.0] - 2024-11-11
 ### Added
 - DNS domain redirections.
 - Changelog in MD format on GitHub repository.
-- Repository status badge.
+- SVG badges on GitHub repository.
 - License CC BY 4.0 on GitHub repository.
 - Code of conduct in MD format.
 - Python baseline code ELO ratings.
 ### Changed
 - GitHub page.
-- Minor corrections
+- Minor corrections.
 
 ## [0.1.0] - 2024-11-05
 ### Added

@@ -5,6 +5,12 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.7.4] - 2024-12-05
+### Added
+- MANIFESTO text file on cycles.
+### Changed
+- Minor corrections.
+
 ## [1.6.4] - 2024-12-04
 ### Added
 - Integrated ELO ratings updates code.

@@ -1,17 +1,21 @@
 # Changelog
-All notable changes to "TextClass-Benchmark" will be documented in this file. No changelogging: Annotated data of new models, leaderboard updates and new ELO ratings because all of them are steps for cycle updating, and the outcome is published directly on https://textclass-benchmark.com.
+All notable changes to "TextClass-Benchmark" will be documented in this file. No changelogging: Annotated data of new models, leaderboard updates, new ELO ratings and minor corrections because all of them are steps for cycle updating, and the outcome is published directly on https://textclass-benchmark.com.
 
 ## [Unreleased]
 
 ## [Released]
 
-## [1.7.4] - 2024-12-05
+## [1.7.2] - 2024-12-07
+### Changed
+- Revision of upgrade versioning.
+
+## [1.7.1] - 2024-12-05
 ### Added
 - MANIFESTO text file on cycles.
 ### Changed
 - Minor corrections.
 
-## [1.6.4] - 2024-12-04
+## [1.6.1] - 2024-12-04
 ### Added
 - Integrated ELO ratings updates code.
 ### Changed
@@ -19,7 +23,7 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 ### Removed
 - Baseline code ELO ratings updates.
 
-## [1.5.4] - 2024-12-01
+## [1.5.1] - 2024-12-01
 ### Changed
 - Meta-ELO.
 - Meta-ELO plot.
@@ -27,27 +31,23 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 ### Deprecated
 - Baseline code ELO ratings updates.
 
-## [1.5.3] - 2024-11-28
-### Changed
-- Minor corrections.
-
-## [1.5.2] - 2024-11-27
+## [1.5.0] - 2024-11-27
 ### Added
 - Meta-ELO plot.
 ### Changed
 - Minor corrections.
 
-## [1.4.2] - 2024-11-26
+## [1.4.0] - 2024-11-26
 ### Added
 - Meta-ELO.
 
-## [1.3.2] - 2024-11-25
+## [1.3.0] - 2024-11-25
 ### Added
 - Keep the Last Known ELO-Score control.
 ### Changed
 - Minor corrections.
 
-## [1.2.2] - 2024-11-24
+## [1.2.0] - 2024-11-24
 ### Added
 - Python code CAP data splits.
 - Python code Fake News splits.
@@ -55,18 +55,10 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 ### Changed
 - Minor corrections.
 
-## [1.1.2] - 2024-11-23
+## [1.1.0] - 2024-11-23
 ### Added
 - Python code TextDetox splits.
 - Python baseline code ground-truth evals.
-### Changed
-- Minor corrections.
-
-## [1.0.2] - 2024-11-22
-### Changed
-- Minor corrections.
-
-## [1.0.1] - 2024-11-12
 ### Changed
 - Minor corrections.
 

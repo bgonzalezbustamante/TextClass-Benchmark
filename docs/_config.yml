@@ -18,9 +18,12 @@ theme: minima
 # add a line comment on "theme: minima" above.
 ## remote_theme: jekyll/minima
 
+paginate: 10
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Theme-specific settings
 

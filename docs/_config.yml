@@ -21,10 +21,18 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
+  ## - jekyll-paginate
+  - jekyll-paginate-v2
 
-paginate: 5
-paginate_path: "page:num"
+## paginate: 10
+## paginate_path: "page:num"
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: "/page:num/"
+  title: ":title - page :num"
+  # Additional configuration options here
 
 # Theme-specific settings
 

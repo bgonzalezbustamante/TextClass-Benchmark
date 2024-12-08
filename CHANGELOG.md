@@ -5,6 +5,10 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.7.3] - 2024-12-08
+### Changed
+- Pagination home.
+
 ## [1.7.2] - 2024-12-07
 ### Changed
 - Revision of upgrade versioning.

@@ -4,7 +4,7 @@ title: "Leaderboard Policy Agenda in English: Elo Rating Cycle 1"
 categories: policy
 author:
 - Bastián González-Bustamante
-meta: "LLMs and BERTs for Policy Agenda Classification in English"
+meta: "LLMs for Policy Agenda Classification in English"
 ---
 
 ## Leaderboard

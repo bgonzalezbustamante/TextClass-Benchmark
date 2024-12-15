@@ -1,54 +1,60 @@
-﻿Model,Parameters,Source,Provider,Deployed,Multilingual
-Aya (35B-L),35,Open,Cohere,Ollama,Yes
-Aya Expanse (32B-L),32,Open,Cohere,Ollama,Yes
-Aya Expanse (8B-L),8,Open,Cohere,Ollama,Yes
-Gemma 2 (27B-L),27,Open,Google,Ollama,NA
-Gemma 2 (9B-L),9,Open,Google,Ollama,NA
-GPT-3.5 Turbo (0125),20,Closed,OpenAI,OpenAI API,Yes
-GPT-4 (0613),1760,Closed,OpenAI,OpenAI API,Yes
-GPT-4 Turbo (2024-04-09),1760,Closed,OpenAI,OpenAI API,Yes
-GPT-4o (2024-05-13),200,Closed,OpenAI,OpenAI API,Yes
-GPT-4o (2024-08-06),200,Closed,OpenAI,OpenAI API,Yes
-GPT-4o (2024-11-20),200,Closed,OpenAI,OpenAI API,Yes
-GPT-4o mini (2024-07-18),8,Closed,OpenAI,OpenAI API,Yes
-Hermes 3 (70B-L),70,Open,Nous Research,Ollama,NA
-Hermes 3 (8B-L),8,Open,Nous Research,Ollama,NA
-Llama 3.1 (405B),405,Open,Meta,Fireworks API,Yes
-Llama 3.1 (70B-L),70,Open,Meta,Ollama,Yes
-Llama 3.1 (8B-L),8,Open,Meta,Ollama,Yes
-Llama 3.2 (3B-L),3,Open,Meta,Ollama,Yes
-Mistral NeMo (12B-L),12,Open,Mistral/NVIDIA,Ollama,Yes
-Mistral OpenOrca (7B-L),7,Open,Mistral,Ollama,Yes
-Mistral Small (22B-L),22,Open,Mistral,Ollama,Yes
-Nous Hermes 2 (11B-L),11,Open,Nous Research,Ollama,NA
-Nous Hermes 2 Mixtral (47B-L),47,Open,Nous Research,Ollama,NA
-o1-mini (2024-09-12),20,Closed,OpenAI,OpenAI API,Yes
-o1-preview (2024-09-12),500,Closed,OpenAI,OpenAI API,Yes
-Orca 2 (7B-L),7,Open,Microsoft,Ollama,NA
-Perspective 0.55,70,BERT,Google,Perspective API,Yes
-Perspective 0.60,70,BERT,Google,Perspective API,Yes
-Perspective 0.70,70,BERT,Google,Perspective API,Yes
-Perspective 0.80,70,BERT,Google,Perspective API,Yes
-Qwen 2.5 (14B-L),14,Open,Alibaba,Ollama,Yes
-Qwen 2.5 (32B-L),32,Open,Alibaba,Ollama,Yes
-Qwen 2.5 (72B-L),72,Open,Alibaba,Ollama,Yes
-Qwen 2.5 (7B-L),7,Open,Alibaba,Ollama,Yes
-Solar Pro (22B-L),22,Open,Upstage,Ollama,NA
-Llama 3.3 (70B-L),70,Open,Meta,Ollama,Yes
-Sailor2 (20B-L),20,Open,Sailor2,Ollama,Yes
-QwQ (32B-L),32,Open,Alibaba,Ollama,NA
-Tülu3 (8B-L),8,Open,AllenAI,Ollama,NA
-Tülu3 (70B-L),70,Open,AllenAI,Ollama,NA
-Marco-o1-CoT (7B-L),7,Open,Alibaba,Ollama,NA
-Athene-V2 (72B-L),72,Open,Nexusflow,Ollama,NA
-Grok Beta,300,Closed,xAI,xAI API,NA
-Claude 3.5 Haiku (2024-10-22),200,Closed,Anthropic,Anthropic API,NA
-Gemini 1.5 Flash,800,Closed,Google,Gemini API,Yes
-Gemini 1.5 Flash (8B),8,Closed,Google,Gemini API,Yes
-Gemini 1.5 Pro,1500,Closed,Google,Gemini API,Yes
-Ministral-8B (2410),8,Open,Mistral,Mistral API,Yes
-Pixtral-12B (2409),12,Open,Mistral,Mistral API,Yes
-Mistral Large (2411),123,Open,Mistral,Mistral API,Yes
-Gemini 2.0 Flash,1200,Closed,Google,Gemini API,Yes
-Exaone 3.5 (8B-L),8,Open,LG AI,Ollama,Yes
-Claude 3.5 Sonet (2024-10-22),200,Closed,Anthropic,Anthropic API,NA
+﻿Model,Parameters,Source,Provider,Deployed,Multilingual,Source_Availability
+Aya (35B-L),35,Open,Cohere,Ollama,Yes,Open*
+Aya Expanse (32B-L),32,Open,Cohere,Ollama,Yes,Open
+Aya Expanse (8B-L),8,Open,Cohere,Ollama,Yes,Open
+Gemma 2 (27B-L),27,Open,Google,Ollama,Yes,Open*
+Gemma 2 (9B-L),9,Open,Google,Ollama,Yes,Open*
+GPT-3.5 Turbo (0125),20,Closed,OpenAI,OpenAI API,Yes,Closed
+GPT-4 (0613),1760,Closed,OpenAI,OpenAI API,Yes,Closed
+GPT-4 Turbo (2024-04-09),1760,Closed,OpenAI,OpenAI API,Yes,Closed
+GPT-4o (2024-05-13),200,Closed,OpenAI,OpenAI API,Yes,Closed
+GPT-4o (2024-08-06),200,Closed,OpenAI,OpenAI API,Yes,Closed
+GPT-4o (2024-11-20),200,Closed,OpenAI,OpenAI API,Yes,Closed
+GPT-4o mini (2024-07-18),8,Closed,OpenAI,OpenAI API,Yes,Closed
+Hermes 3 (70B-L),70,Open,Nous Research,Ollama,Limited,Open
+Hermes 3 (8B-L),8,Open,Nous Research,Ollama,Limited,Open
+Llama 3.1 (405B),405,Open,Meta,Fireworks API,Yes,Open
+Llama 3.1 (70B-L),70,Open,Meta,Ollama,Yes,Open
+Llama 3.1 (8B-L),8,Open,Meta,Ollama,Yes,Open
+Llama 3.2 (3B-L),3,Open,Meta,Ollama,Yes,Open
+Mistral NeMo (12B-L),12,Open,Mistral/NVIDIA,Ollama,Yes,Open
+Mistral OpenOrca (7B-L),7,Open,Mistral,Ollama,Yes,Open
+Mistral Small (22B-L),22,Open,Mistral,Ollama,Yes,Open
+Nous Hermes 2 (11B-L),11,Open,Nous Research,Ollama,Limited,Open
+Nous Hermes 2 Mixtral (47B-L),47,Open,Nous Research,Ollama,Limited,Open
+o1-mini (2024-09-12),20,Closed,OpenAI,OpenAI API,Yes,Closed
+o1-preview (2024-09-12),500,Closed,OpenAI,OpenAI API,Yes,Closed
+Orca 2 (7B-L),7,Open,Microsoft,Ollama,Yes,Open
+Perspective 0.55,70,BERT,Google,Perspective API,Yes,Closed
+Perspective 0.60,70,BERT,Google,Perspective API,Yes,Closed
+Perspective 0.70,70,BERT,Google,Perspective API,Yes,Closed
+Perspective 0.80,70,BERT,Google,Perspective API,Yes,Closed
+Qwen 2.5 (14B-L),14,Open,Alibaba,Ollama,Yes,Open*
+Qwen 2.5 (32B-L),32,Open,Alibaba,Ollama,Yes,Open*
+Qwen 2.5 (72B-L),72,Open,Alibaba,Ollama,Yes,Open*
+Qwen 2.5 (7B-L),7,Open,Alibaba,Ollama,Yes,Open*
+Solar Pro (22B-L),22,Open,Upstage,Ollama,Yes,Open*
+Llama 3.3 (70B-L),70,Open,Meta,Ollama,Yes,Open
+Sailor2 (20B-L),20,Open,Sailor2,Ollama,Yes,Open*
+QwQ (32B-L),32,Open,Alibaba,Ollama,Yes,Open*
+Tülu3 (8B-L),8,Open,AllenAI,Ollama,unk,Open*
+Tülu3 (70B-L),70,Open,AllenAI,Ollama,unk,Open*
+Marco-o1-CoT (7B-L),7,Open,Alibaba,Ollama,unk,Open*
+Athene-V2 (72B-L),72,Open,Nexusflow,Ollama,unk,Open*
+Grok Beta,300,Closed,xAI,xAI API,Yes,Closed
+Claude 3.5 Haiku (2024-10-22),200,Closed,Anthropic,Anthropic API,Yes,Closed
+Gemini 1.5 Flash,800,Closed,Google,Gemini API,Yes,Closed
+Gemini 1.5 Flash (8B),8,Closed,Google,Gemini API,Yes,Closed
+Gemini 1.5 Pro,1500,Closed,Google,Gemini API,Yes,Closed
+Ministral-8B (2410),8,Open,Mistral,Mistral API,Yes,Open
+Pixtral-12B (2409),12,Open,Mistral,Mistral API,Yes,Open
+Mistral Large (2411),123,Open,Mistral,Mistral API,Yes,Open
+Gemini 2.0 Flash,1200,Closed,Google,Gemini API,Yes,Closed
+Exaone 3.5 (8B-L),8,Open,LG AI,Ollama,Yes,Open*
+Exaone 3.5 (32B-L),32,Open,LG AI,Ollama,Yes,Open*
+Claude 3.5 Sonet (2024-10-22),200,Closed,Anthropic,Anthropic API,Yes,Closed
+GLM-4 (9B-L),9,Open,Zhipu AI,Ollama,Yes,Open
+Pixtral Large (2411),124,Open,Mistral,Mistral API,Yes,Open
+Open Mixtral 8x22B,176,Open,Mistral,Mistral API,Yes,Open
+Yi Large,1000,Closed,Baidu,Fireworks API,Yes,Closed
+Grok 2 (1212),600,Closed,xAI,xAI API,Yes,Closed

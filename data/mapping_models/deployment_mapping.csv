@@ -56,5 +56,14 @@ Claude 3.5 Sonet (2024-10-22),200,Closed,Anthropic,Anthropic API,Yes,Closed
 GLM-4 (9B-L),9,Open,Zhipu AI,Ollama,Yes,Open
 Pixtral Large (2411),124,Open,Mistral,Mistral API,Yes,Open
 Open Mixtral 8x22B,176,Open,Mistral,Mistral API,Yes,Open
-Yi Large,1000,Closed,Baidu,Fireworks API,Yes,Closed
+Yi Large,1000,Closed,01 AI,Fireworks API,Yes,Closed
 Grok 2 (1212),600,Closed,xAI,xAI API,Yes,Closed
+Mistral (7B-L),7,Open,Mistral,Ollama,unk,Open
+Notus (7B-L),7,Open,Argilla,Ollama,unk,Open
+Nemotron-Mini (4B-L),4,Open,NVIDIA,Ollama,unk,Open
+Granite 3 MoE (3B-L),3,Open,IBM,Ollama,Yes,Open
+Yi 1.5 (6B-L),6,Open,01 AI,Ollama,Yes,Open
+Yi 1.5 (9B-L),9,Open,01 AI,Ollama,Yes,Open
+Yi 1.5 (34B-L),34,Open,01 AI,Ollama,Yes,Open
+Nemotron (70B-L),70,Open,NVIDIA,Ollama,unk,Open
+Codestral Mamba (7B),7,Open,Mistral,Mistral API,unk,Open

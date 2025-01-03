@@ -5,6 +5,12 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.8.3] - 2025-01-03
+### Added
+- Automatic MD tables.
+### Changed
+- Minor corrections.
+
 ## [1.7.3] - 2024-12-08
 ### Changed
 - Pagination home.

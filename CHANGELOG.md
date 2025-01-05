@@ -5,6 +5,11 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.8.4] - 2025-01-05
+### Changed
+- Python code CAP data splits.
+- Minor corrections.
+
 ## [1.8.3] - 2025-01-03
 ### Added
 - Automatic MD tables.

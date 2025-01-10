@@ -46,4 +46,19 @@ gemini-1.5-pro.csv,Gemini 1.5 Pro,4
 ministral-8b-2410.csv,Ministral-8B (2410),4
 pixtral-12b-2409.csv,Pixtral-12B (2409),4
 mistral-large-2411.csv,Mistral Large (2411),4
+exaone3.5.csv,Exaone 3.5 (8B-L),5
+exaone3.5_32b.csv,Exaone 3.5 (32B-L),5
+glm4.csv,GLM-4 (9B-L),5
+mistral.csv,Mistral (7B-L),5
+nemotron-mini.csv,Nemotron-Mini (4B-L),5
+granite3-moe_3b.csv,Granite 3 MoE (3B-L),5
+yi.csv,Yi 1.5 (6B-L),5
+yi_9b.csv,Yi 1.5 (9B-L),5
+nemotron.csv,Nemotron (70B-L),5
+claude-3-5-sonnet-20241022.csv,Claude 3.5 Sonnet (20241022),5
+pixtral-large-2411.csv,Pixtral Large (2411),5
+open-codestral-mamba.csv,Codestral Mamba (7B),5
+open-mixtral-8x22b.csv,Open Mixtral 8x22B,5
+yi-large.csv,Yi Large,5
+grok-2-1212.csv,Grok 2 (1212),5
 deepseek-chat.csv,DeepSeek-V3,6

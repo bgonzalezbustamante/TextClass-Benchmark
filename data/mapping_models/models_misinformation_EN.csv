@@ -38,7 +38,6 @@ gemini-1.5-pro.csv,Gemini 1.5 Pro,4
 ministral-8b-2410.csv,Ministral-8B (2410),4
 pixtral-12b-2409.csv,Pixtral-12B (2409),4
 mistral-large-2411.csv,Mistral Large (2411),4
-gemini-2.0-flash-exp.csv,Gemini 2.0 Flash,5
 exaone3.5.csv,Exaone 3.5 (8B-L),5
 exaone3.5_32b.csv,Exaone 3.5 (32B-L),5
 glm4.csv,GLM-4 (9B-L),5

@@ -77,3 +77,8 @@ Gemini 2.0 Flash,1200,Closed,Google,Gemini API,unk,Closed
 Gemini 2.0 Flash-Lite (02-05),350,Closed,Google,Gemini API,unk,Closed
 o3-mini (2025-01-31),20,Closed,OpenAI,OpenAI API,Yes,Closed
 o1 (2024-12-17),200,Closed,OpenAI,OpenAI API,Yes,Closed
+Dolphin 3.0 (8B-L),8,Open,Cognitive Comp.,Ollama,unk,Open
+Phi-4 (14B-L),14,Open,Microsoft,Ollama,unk,Open
+OLMo 2 (7B-L),7,Open,AllenAI,Ollama,unk,Open
+OLMo 2 (13B-L),13,Open,AllenAI,Ollama,unk,Open
+DeepSeek-R1 (7B-L),7,Open,DeepSeek-AI,Ollama,unk,Open

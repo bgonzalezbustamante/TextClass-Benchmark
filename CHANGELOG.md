@@ -5,6 +5,14 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.9.6] - 2025-02-09
+### Changed
+- Minor corrections.
+
+## [1.9.5] - 2025-01-29
+### Added
+- Digital protests paper branch.
+
 ## [1.8.5] - 2025-01-06
 ### Changed
 - Minor corrections.

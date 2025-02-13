@@ -52,4 +52,7 @@ pixtral-large-2411.csv,Pixtral Large (2411),5
 open-codestral-mamba.csv,Codestral Mamba (7B),5
 yi-large.csv,Yi Large,5
 grok-2-1212.csv,Grok 2 (1212),5
-deepseek-chat.csv,DeepSeek-V3,6
+deepseek-chat.csv,DeepSeek-V3 (671B),6
+falcon3_10b.csv,Falcon3 (10B-L),6
+phi3_14b.csv,Phi-3 Medium (14B-L),6
+granite3.1-dense.csv,Granite 3.1 (8B-L),6

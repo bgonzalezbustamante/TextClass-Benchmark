@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score
+DeepSeek-R1 (671B),0.864,0.941747572815534,0.776,0.8508771929824561

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leaderboard Toxicity in Chinese: Elo Rating Cycle 7"
+title: "Leaderboard Toxicity in Chinese: Elo Rating Cycle 8"
 categories: toxicity
 author:
 - Bastián González-Bustamante

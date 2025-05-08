@@ -5,7 +5,11 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
-## [1.9.7] - 2025-03-16
+## [1.9.9] - 2025-05-05
+### Changed
+- Python code CAP data splits for sustainability.
+
+## [1.9.8] - 2025-03-16
 ### Changed
 - Models deployment source information.
 

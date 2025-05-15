@@ -5,6 +5,11 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.9.10] - 2025-05-15
+### Changed
+- Meta-ELO weights.
+- Models deployment source information.
+
 ## [1.9.9] - 2025-05-05
 ### Changed
 - Python code CAP data splits for sustainability.

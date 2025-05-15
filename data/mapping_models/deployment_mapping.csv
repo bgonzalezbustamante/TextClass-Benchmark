@@ -1,9 +1,9 @@
 ﻿Model,Parameters,Source,Provider,Deployed,Multilingual
-Aya (35B-L),35,Closed,Cohere,Ollama,Yes
+Aya (35B-L),35,Open,Cohere,Ollama,Yes
 Aya Expanse (32B-L),32,Open,Cohere,Ollama,Yes
 Aya Expanse (8B-L),8,Open,Cohere,Ollama,Yes
-Gemma 2 (27B-L),27,Closed,Google,Ollama,Yes
-Gemma 2 (9B-L),9,Closed,Google,Ollama,Yes
+Gemma 2 (27B-L),27,Open,Google,Ollama,Yes
+Gemma 2 (9B-L),9,Open,Google,Ollama,Yes
 GPT-3.5 Turbo (0125),20,Closed,OpenAI,OpenAI API,Yes
 GPT-4 (0613),1760,Closed,OpenAI,OpenAI API,Yes
 GPT-4 Turbo (2024-04-09),1760,Closed,OpenAI,OpenAI API,Yes
@@ -29,18 +29,18 @@ Perspective 0.55,70,BERT,Google,Perspective API,Yes
 Perspective 0.60,70,BERT,Google,Perspective API,Yes
 Perspective 0.70,70,BERT,Google,Perspective API,Yes
 Perspective 0.80,70,BERT,Google,Perspective API,Yes
-Qwen 2.5 (14B-L),14,Closed,Alibaba,Ollama,Yes
-Qwen 2.5 (32B-L),32,Closed,Alibaba,Ollama,Yes
-Qwen 2.5 (72B-L),72,Closed,Alibaba,Ollama,Yes
-Qwen 2.5 (7B-L),7,Closed,Alibaba,Ollama,Yes
-Solar Pro (22B-L),22,Closed,Upstage,Ollama,Yes
+Qwen 2.5 (14B-L),14,Open,Alibaba,Ollama,Yes
+Qwen 2.5 (32B-L),32,Open,Alibaba,Ollama,Yes
+Qwen 2.5 (72B-L),72,Open,Alibaba,Ollama,Yes
+Qwen 2.5 (7B-L),7,Open,Alibaba,Ollama,Yes
+Solar Pro (22B-L),22,Open,Upstage,Ollama,Yes
 Llama 3.3 (70B-L),70,Open,Meta,Ollama,Yes
-Sailor2 (20B-L),20,Closed,Sailor2,Ollama,Yes
-QwQ (32B-L),32,Closed,Alibaba,Ollama,Yes
-Tülu3 (8B-L),8,Closed,AllenAI,Ollama,unk
-Tülu3 (70B-L),70,Closed,AllenAI,Ollama,unk
-Marco-o1-CoT (7B-L),7,Closed,Alibaba,Ollama,unk
-Athene-V2 (72B-L),72,Closed,Nexusflow,Ollama,unk
+Sailor2 (20B-L),20,Open,Sea-SAIL,Ollama,Yes
+QwQ (32B-L),32,Open,Alibaba,Ollama,Yes
+Tülu3 (8B-L),8,Open,AllenAI,Ollama,unk
+Tülu3 (70B-L),70,Open,AllenAI,Ollama,unk
+Marco-o1-CoT (7B-L),7,Open,Alibaba,Ollama,unk
+Athene-V2 (72B-L),72,Open,Nexusflow,Ollama,unk
 Grok Beta,300,Closed,xAI,xAI API,Yes
 Claude 3.5 Haiku (20241022),200,Closed,Anthropic,Anthropic API,Yes
 Gemini 1.5 Flash,8,Closed,Google,Gemini API,Yes
@@ -50,8 +50,8 @@ Ministral-8B (2410),8,Open,Mistral,Mistral API,Yes
 Pixtral-12B (2409),12,Open,Mistral,Mistral API,Yes
 Mistral Large (2411),123,Open,Mistral,Mistral API,Yes
 Gemini 2.0 Flash Exp.,30,Closed,Google,Gemini API,Yes
-Exaone 3.5 (8B-L),8,Closed,LG AI,Ollama,Yes
-Exaone 3.5 (32B-L),32,Closed,LG AI,Ollama,Yes
+Exaone 3.5 (8B-L),8,Open,LG AI,Ollama,Yes
+Exaone 3.5 (32B-L),32,Open,LG AI,Ollama,Yes
 Claude 3.5 Sonnet (20241022),200,Closed,Anthropic,Anthropic API,Yes
 GLM-4 (9B-L),9,Open,Zhipu AI,Ollama,Yes
 Pixtral Large (2411),124,Open,Mistral,Mistral API,Yes
@@ -92,9 +92,9 @@ DeepScaleR (1.5B-L),1.5,Open,Agentica,Ollama,unk
 Granite 3.2 (8B-L),8,Open,IBM,Ollama,Yes
 Phi-4-mini (3.8B-L),3.8,Open,Microsoft,Ollama,Yes
 Command R7B Arabic (7B-L),7,Open,Cohere,Ollama,Yes
-Gemma 3 (4B-L),4,Closed,Google,Ollama,Yes
-Gemma 3 (12B-L),12,Closed,Google,Ollama,Yes
-Gemma 3 (27B-L),27,Closed,Google,Ollama,Yes
+Gemma 3 (4B-L),4,Open,Google,Ollama,Yes
+Gemma 3 (12B-L),12,Open,Google,Ollama,Yes
+Gemma 3 (27B-L),27,Open,Google,Ollama,Yes
 Mistral Saba,24,Open,Mistral,Mistral API,Yes
 Claude 3.7 Sonnet (20250219),175,Closed,Anthropic,Anthropic API,unk
 Mistral Small 3.1,24,Open,Mistral,Mistral API,unk

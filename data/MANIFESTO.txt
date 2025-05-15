@@ -18,7 +18,7 @@ policy_FR_cycle_3		Ollama v0.5.4 and Python Ollama and OpenAI dependencies + GeF
 policy_FR_cycle_4		Ollama v0.5.4 and Python Ollama, OpenAI, Anthropic, GenerativeAI and MistralAI dependencies + GeForce v566.36 (20241205)
 policy_FR_cycle_5		Ollama v0.5.10 and Python Ollama, OpenAI, Anthropic, GenerativeAI and MistralAI dependencies + GeForce v572.42 (20250213)
 policy_FR_cycle_6		Ollama v0.5.11 and Python Ollama, OpenAI, Anthropic, GenerativeAI and MistralAI dependencies + GeForce v572.42 (20250213)
-policy_HU_cycle_1		Ollama v0.6.5 and Python Ollama and OpenAI dependencies + GeForce v572.83 (20250318)
+policy_HU_cycle_1		Ollama v0.6.5 and Python Ollama and OpenAI dependencies + GeForce v576.28 (20250430)
 policy_IT_cycle_1		Ollama v0.5.7 and Python Ollama and OpenAI dependencies + GeForce v572.16 (20250130)
 policy_IT_cycle_2		Ollama v0.5.11 and Python Ollama and OpenAI dependencies + GeForce v572.42 (20250213)
 policy_IT_cycle_3		Ollama v0.5.11 and Python Ollama and OpenAI dependencies + GeForce v572.42 (20250213)

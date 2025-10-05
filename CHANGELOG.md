@@ -5,6 +5,10 @@ All notable changes to "TextClass-Benchmark" will be documented in this file. No
 
 ## [Released]
 
+## [1.12.9] - 2025-10-05
+### Added
+- Python code CAP data splits for environmental claims.
+
 ## [1.11.9] - 2025-09-27
 ### Added
 - Python code CAP data splits for technology.

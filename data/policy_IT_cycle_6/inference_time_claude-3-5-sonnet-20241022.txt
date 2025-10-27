@@ -1,1 +1,1 @@
-Inference Time: 1533.08 seconds
+Inference Time: 541.11 seconds

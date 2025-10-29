@@ -1,3 +1,4 @@
-o1-preview-2024-09-12.csv
-grok-beta.csv
-gpt-4.5-preview-2025-02-27.csv
+o1-preview-2024-09-12
+grok-beta
+gpt-4.5-preview-2025-02-27
+claude-3-5-sonnet-20241022 | 28 Oct 2025
